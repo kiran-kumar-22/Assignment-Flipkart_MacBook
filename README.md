@@ -1,4 +1,4 @@
-# Assignment-Flipkart_MacBook
+# Scraping-Flipkart_MacBook
 
 E-Commerce website Flipkart - MacBook laptops on sale.
 
